@@ -1,0 +1,10 @@
+.card {
+    border: 1px black solid;
+    margin: 20px 10px;
+    border-radius: 50px;
+    padding: 5px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
